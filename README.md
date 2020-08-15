@@ -11,11 +11,11 @@ O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e 
     Campo de inscrição, para professores.
 
 # 📅 Dias
-1. white_check_mark Acelerando sua evolução
-2. white_check_mark Olhando as oportunidades
-3. white_check_mark A escolha da stack
-4. white_check_mark Até 2 anos em 2 meses
-5. construction A milha extra
+1. Acelerando sua evolução
+2. Olhando as oportunidades
+3. A escolha da stack
+4. Até 2 anos em 2 meses
+5. A milha extra
 
 # 💻 Tecnologias
 React
